@@ -18,7 +18,7 @@
 
 ## About me
 - 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
-- 📫 How to reach me | <a href="https://t.me/oibrohimoff">Telegram</a>
+- 📫 How to reach me | <a href="https://t.me/devolopment_2008">Telegram</a>
 
 # Technology stack
 
@@ -57,7 +57,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhriddin08&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/Muhriddin08/github-readme-stats)
 
 ## **Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdilbekIbrohimof&layout=compact&theme=highcontrast)](https://github.com/Muhriddin08/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhriddin08&layout=compact&theme=highcontrast)](https://github.com/Muhriddin08/github-readme-stats)
 
 # Thank You !
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
